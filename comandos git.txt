@@ -1,0 +1,8 @@
+área de trabalho > git bash here
+cd (pasta) repo + tab
+code .
+git add .
+
+git commit -m "colocar o comentário do commit"
+git push
+https://comandosgit.github.io/
